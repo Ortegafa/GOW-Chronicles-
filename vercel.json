@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/api/characters/:id", "destination": "/api/characters?id=:id" },
+    { "source": "/api/mythologies/:id", "destination": "/api/mythologies?id=:id" },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
+  ]
+}
