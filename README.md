@@ -10,7 +10,7 @@ selector EN/ES de la cabecera; la elección se recuerda en el navegador. En espa
 La API incluye además los **datos en español**: cada personaje trae un campo `es` con la descripción, la cita, la especie,
 el género, los alias y el reino traducidos, y cada mitología trae su reino y descripción traducidos. El modo español los
 usa; el inglés muestra los originales. La traducción está en `scripts/translations-es.json` y `npm run data` la
-incorpora a la API. Fue generada con IA (Claude) a partir de los textos de la wiki (CC BY-SA); los nombres propios dentro
+incorpora a la API. Se hizo a partir de los textos de la wiki (CC BY-SA); los nombres propios dentro
 de los alias y los títulos de los juegos se dejan como en el original.
 
 Diferencias con los datos del primer proyecto: los retratos de Kratos (God of War III) y Mimir usan otras imágenes de la
