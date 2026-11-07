@@ -13,10 +13,7 @@ usa; el inglés muestra los originales. La traducción está en `scripts/transla
 incorpora a la API. Se hizo a partir de los textos de la wiki (CC BY-SA); los nombres propios dentro
 de los alias y los títulos de los juegos se dejan como en el original.
 
-Diferencias con los datos del primer proyecto: los retratos de Kratos (God of War III) y Mimir usan otras imágenes de la
-propia wiki (`IMAGE_OVERRIDES` en `scripts/build-data.mjs`), se agregaron los campos en español, y Kratos aparece en
-los dos panteones (`SECOND_PANTHEON`): `kratos` es el griego, con la imagen de God of War III, y `kratos-norse` el
-nórdico, con la de Ragnarök y la misma información. Por eso la API tiene 240 entradas para 239 personajes.
+La API tiene 240 entradas para 239 personajes.
 
 SPA en **React + TypeScript + Vite** con **Tailwind CSS v4** y **React Router**.
 
